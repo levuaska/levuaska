@@ -23,6 +23,7 @@ Levuaska is a dark pastel theme based on [Catppuccin](https://github.com/catppuc
 
 - Terminals
   - [Tym](https://github.com/levuaska/tym)
+  - [Kitty](https://github.com/levuaska/kitty)
 
 <h1>📜 License</h1>
 
