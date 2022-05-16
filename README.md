@@ -19,6 +19,29 @@
 
 Levuaska is a dark pastel theme based on [Catppuccin](https://github.com/catppuccin/catppuccin), with vibrant colors.
 
+<h1>:art: Pallete</h1>
+
+| Color | Hex |
+|-------|-----|
+| Background | `#0f0f17` |
+| Foreground | `#bfc9db` |
+| Black 0    | `#13141c` |
+| Black 1    | `#646a73` |
+| Red 1      | `#d78787` | 
+| Red 2      | `#d78787` |
+| Green 1    | `#afbea2` |
+| Green 2    | `#afbea2` |
+| Yellow 1   | `#e4c9af` |
+| Yellow 2   | `#e4c9af` |
+| Blue 1     | `#a1bdce` |
+| Blue 2     | `#a1bdce` |
+| Magenta 1  | `#d7beda` |
+| Magenta 2  | `#d7beda` |
+| Cyan 1     | `#b1e7dd` |
+| Cyan 2     | `#b1e7dd` |
+| White 1    | `#bfc9db` |
+| White 2    | `#858893` |
+
 <h1>🌌 Levuaska for apps</h1>
 
 - Terminals
