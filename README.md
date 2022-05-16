@@ -25,6 +25,7 @@ Levuaska is a dark pastel theme based on [Catppuccin](https://github.com/catppuc
   - [Tym](https://github.com/levuaska/tym)
   - [Kitty](https://github.com/levuaska/kitty)
   - [Alacritty](https://github.com/levuaska/alacritty)
+  - [ST](https://github.com/levuaska/st)
 
 - Editors
   - [NeoVim](https://github.com/levuaska/levuaska.nvim)
