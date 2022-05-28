@@ -60,3 +60,8 @@ Levuaska is a dark pastel theme based on [Catppuccin](https://github.com/catppuc
 <h1>📜 License</h1>
 
 Levuaska uses **Apache License 2.0**, see [LICENSE](https://github.com/levuaska/levuaska/blob/main/LICENSE) file.
+
+<h1>💜 Special thanks</h1>
+
+- All contribuitors 
+- [saimoomedits](https://github.com/saimoomedits) to create this!
