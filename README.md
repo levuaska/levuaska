@@ -56,6 +56,7 @@ Levuaska is a dark pastel theme based on [Catppuccin](https://github.com/catppuc
 
 - System
   - [GTK](https://github.com/levuaska/gtk)
+  - [Xresources](https://github.com/levuaska/xresources/)
 
 <h1>📜 License</h1>
 
